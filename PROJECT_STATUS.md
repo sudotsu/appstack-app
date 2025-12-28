@@ -231,9 +231,20 @@ If you want to build without pushing:
 
 ---
 
-## 📝 Next Steps
+## 📱 Play Store Submission
 
-### Before Play Store Submission
+**Everything you need is ready!**
+
+### Complete Guide:
+📖 **[MOBILE_GUIDE.md](MOBILE_GUIDE.md)** - Full step-by-step guide with all info in one place
+
+### Other Resources:
+- [PLAY_STORE_SUBMISSION.md](PLAY_STORE_SUBMISSION.md) - Detailed submission guide
+- [PLAY_STORE_ASSETS_CHECKLIST.md](PLAY_STORE_ASSETS_CHECKLIST.md) - Checklist
+- [QUICK_REFERENCE.md](QUICK_REFERENCE.md) - Quick reference card
+- [store-assets/](store-assets/) - Templates and asset folders
+
+## 📝 Before Play Store Submission
 
 1. **Test the app thoroughly**
    - Download APK from GitHub Actions

@@ -1,6 +1,10 @@
-# Next.js Mastery Lab
+# AppStack (Next.js Mastery Lab)
 
 Progressive challenges that force understanding, not memorization.
+
+## 📱 Ready to Publish to Google Play Store?
+
+**See:** [MOBILE_GUIDE.md](MOBILE_GUIDE.md) - Complete step-by-step guide with everything you need
 
 ## Features
 
