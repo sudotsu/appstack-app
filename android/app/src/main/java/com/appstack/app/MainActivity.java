@@ -1,4 +1,4 @@
-package com.nextjsmastery.app;
+package com.appstack.app;
 
 import com.getcapacitor.BridgeActivity;
 
