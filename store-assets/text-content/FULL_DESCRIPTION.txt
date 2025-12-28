@@ -1,0 +1,31 @@
+Next.js Mastery Lab - Progressive Learning Platform
+
+Master Next.js 15 through hands-on challenges that test understanding, not syntax memorization.
+
+🎯 FEATURES:
+• AI-Powered Validation - Claude evaluates your comprehension
+• Progressive Unlocking - Prove mastery before advancing
+• Persistent Progress - Your achievements saved locally
+• Smart Hints - Guidance without spoilers
+
+📚 LEARN:
+• TypeScript + JSX Fundamentals
+• Tailwind v4 Dynamic Styling
+• State Management Patterns
+• Form Handling & Validation
+• Next.js Routing Concepts
+• Async Data Fetching
+• Custom Hooks & Composition
+
+💪 WHY IT WORKS:
+Instead of copying code, you'll explain concepts, solve real problems, and build muscle memory through practice. Each challenge requires demonstrating true understanding.
+
+🚀 BUILT WITH:
+• Next.js 15 (App Router)
+• TypeScript 5
+• Tailwind CSS v4
+• Anthropic Claude API
+
+Perfect for developers who want to truly master Next.js, not just copy tutorials.
+
+Start your journey from fundamentals to advanced patterns. Build confidence through progressive mastery.

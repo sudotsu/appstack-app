@@ -1,0 +1,10 @@
+Initial release of AppStack!
+
+🎉 Features:
+- AI-powered learning challenges
+- Progressive mastery system
+- Smart hint system
+- Persistent progress tracking
+- Offline support
+
+Start mastering Next.js today!

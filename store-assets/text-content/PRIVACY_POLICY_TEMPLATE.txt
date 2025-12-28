@@ -1,0 +1,55 @@
+Privacy Policy for AppStack
+
+Last updated: December 28, 2025
+
+AxP Labs ("we", "our", or "us") operates the AppStack mobile application (the "App").
+
+INFORMATION COLLECTION AND USE
+
+We do not collect, store, or share any personally identifiable information from users of our App.
+
+LOCAL DATA STORAGE
+
+All user progress and data is stored locally on your device using browser local storage. We do not have access to this data, and it never leaves your device.
+
+THIRD-PARTY SERVICES
+
+Our App uses the following third-party services:
+
+1. Anthropic Claude API
+   - Used for AI-powered educational features and challenge validation
+   - User queries may be sent to Anthropic's servers for processing
+   - Please review Anthropic's privacy policy: https://www.anthropic.com/legal/privacy
+
+CHILDREN'S PRIVACY
+
+Our App is not designed for or directed at children under the age of 13. We do not knowingly collect personal information from children under 13.
+
+DATA SECURITY
+
+Since all data is stored locally on your device and we do not collect user data on our servers, the security of your data depends on your device's security measures.
+
+CHANGES TO THIS PRIVACY POLICY
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+
+CONTACT US
+
+If you have any questions about this Privacy Policy, please contact us at:
+Email: soowoouser@gmail.com
+
+---
+
+INSTRUCTIONS FOR USE:
+1. Copy this text
+2. Host it publicly:
+   - Option A: Create a GitHub Pages site
+   - Option B: Upload to your website
+   - Option C: Use Google Docs (set to "Anyone with link can view")
+3. Get the public URL
+4. Add that URL to Play Console privacy policy field
+
+Example URLs:
+- GitHub Pages: https://sudotsu.github.io/appstack-privacy
+- Your site: https://yoursite.com/appstack-privacy
+- Google Docs: https://docs.google.com/document/d/YOUR_DOC_ID/edit?usp=sharing (set to public)
